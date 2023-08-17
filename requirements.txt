@@ -23,7 +23,7 @@ joblib>=1.2.0
 Keras-Applications>=1.0.8
 Keras-Preprocessing>=1.0.9
 le-pycaption==2.2.0a1
-librosa<0.10.0
+librosa==0.10.0.*
 locket==0.2.0
 Markdown==2.6.11
 mccabe==0.6.1
