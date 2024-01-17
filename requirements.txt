@@ -45,7 +45,7 @@ pydotplus==2.0.2
 pyprof2calltree==1.4.3
 pysrt==1.1.2
 pysubs2~=1.6.1
-pytz==2018.4
+pytz==2020.1
 PyYAML>=4.2b1
 rsa==4.7
 scipy<=1.11.2
